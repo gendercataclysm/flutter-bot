@@ -1,0 +1,48 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  7 21.3M    7 1663k    0     0  1923k      0  0:00:11 --:--:--  0:00:11 1921k100 21.3M  100 21.3M    0     0  14.4M      0  0:00:01  0:00:01 --:--:-- 14.4M
+npm WARN deprecated node-pre-gyp@0.17.0: Please upgrade to @mapbox/node-pre-gyp: the non-scoped node-pre-gyp package is deprecated and only the @mapbox scoped package will recieve updates in the future
+
+added 67 packages, and audited 68 packages in 3s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm notice 
+npm notice New major version of npm available! 8.15.0 -> 9.6.4
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.4>
+npm notice Run `npm install -g npm@9.6.4` to update!
+npm notice 
+
+up to date, audited 34 packages in 485ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Start
+Checking Requirements...
+Initializing Client...
+Loading Slash Commands...
+Loadimg Message Commands...
+Loaded defaultembed
+Loaded dm
+Loaded embedtest
+Loaded hello
+Loaded help
+Loaded kick
+Loaded ping
+Loaded user
+the monster under your bed is ready!
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+ReferenceError: error is not defined
+    at /home/minecraft/multicraft/servers/server476412/index.js:124:101
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Client.<anonymous> (/home/minecraft/multicraft/servers/server476412/index.js:124:5)
+Emitted 'error' event on Client instance at:
+    at emitUnhandledRejectionOrErr (node:events:394:10)
+    at processTicksAndRejections (node:internal/process/task_queues:85:21)
